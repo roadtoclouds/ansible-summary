@@ -1,9 +1,5 @@
-# ansible-summary
-
 # An Ansible summary
-
 Jon Warbrick, July 2014, V3.2 (for Ansible 1.7)
-
 # Configuration file
 
 [intro\_configuration.html](http://docs.ansible.com/intro_configuration.html)
